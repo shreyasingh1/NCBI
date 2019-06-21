@@ -11,6 +11,7 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 5905.0,active agonist,2.03708,38.5376
 4044.0,inactive,0,0
 6103.0,inactive,0,0
+5281417.0,active agonist,9.82521,215.372
 11078.0,inactive,0,0
 16129666.0,active antagonist,6.95572,-79.8959
 71172.0,inactive,0,0
@@ -20,6 +21,7 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 5284558.0,inactive,0,0
 200103.0,inactive,0,0
 16051987.0,inactive,0,0
+2725002.0,active agonist,17.5925,223.76
 38911.0,active antagonist,4.06451,-138.851
 3728.0,active antagonist,11.1001,-148.534
 4622.0,active agonist,1.29418,129.064
@@ -59,6 +61,8 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 518605.0,active agonist,18.9959,97.0287
 16219127.0,active agonist,25.3315,145.608
 65057.0,active antagonist,23.0141,-159.729
+38072.0,active agonist,20.5113,273.608
+9849425.0,active agonist,3.57817,291.418
 4494.0,active antagonist,13.4481,-125.011
 27812.0,active antagonist,0.312844,-137.996
 5282375.0,inactive,0,0
@@ -108,9 +112,12 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 62477.0,inactive,0,0
 50516.0,inactive,0,0
 22586.0,active antagonist,17.2995,-56.9142
+71833.0,active agonist,45.6372,52.634
 608116.0,inactive,0,0
 84677.0,active antagonist,11.589,-65.3858
+9158.0,active agonist,5.21359,717.447
 2734175.0,inactive,0,0
+2723598.0,active agonist,4.06662,483.714
 5897.0,active antagonist,20.9803,-51.0669
 5354284.0,active antagonist,1.84754,-42.4658
 13428.0,active antagonist,5.68949,-57.2437
@@ -139,6 +146,7 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 69908.0,active antagonist,9.2348,-45.9713
 7045.0,inactive,0,0
 74867.0,active antagonist,27.3741,-66.5837
+14586.0,active agonist,10.1349,243.359
 16129778.0,inactive,0,0
 24860538.0,inactive,0,0
 60196400.0,inactive,0,0
@@ -174,6 +182,8 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 18048.0,inactive,0,0
 91593.0,active antagonist,30.8956,-93.9282
 70355.0,inactive,0,0
+6867.0,active agonist,45.3485,178.534
+33786.0,active agonist,29.5761,166.832
 1807.0,active antagonist,54.941,-116.298
 175956.0,active agonist,36.7195,86.5644
 68539.0,inactive,0,0
@@ -201,8 +211,10 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 1318.0,active antagonist,13.8006,-127.832
 2788.0,active antagonist,12.2817,-133.541
 3334.0,active agonist,0.810977,110.775
+5546.0,active agonist,23.9145,72.9445
 5833.0,active antagonist,5.49437,-139.115
 5881.0,active antagonist,17.3888,-69.233
+7050.0,active agonist,21.8751,215.04
 9324.0,active antagonist,0.0804944,-86.6165
 9403.0,active antagonist,4.53485,-81.8357
 9904.0,active antagonist,2.08534,-158.651
@@ -250,6 +262,7 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 6234.0,inactive,0,0
 6461.0,active agonist,8.42705,77.5661
 4760.0,inactive,0,0
+5280567.0,inactive,0,0
 4641.0,inactive,0,0
 5284613.0,inactive,0,0
 34458.0,inactive,0,0
@@ -307,7 +320,6 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 60196272.0,inactive,0,0
 63009.0,inactive,0,0
 73334.0,inactive,0,0
-148673.0,inconclusive agonist (fluorescent),7.38793,42.7403
 6852400.0,inactive,0,0
 56801.0,inactive,0,0
 11957707.0,inactive,0,0
@@ -326,7 +338,6 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 5732.0,active agonist,23.0141,72.3463
 4679.0,inactive,0,0
 60699.0,inactive,0,0
-74990.0,inconclusive agonist (fluorescent),0,18.1233
 107770.0,inactive,0,0
 5746.0,inactive,0,0
 60198.0,inactive,0,0
@@ -805,7 +816,6 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 180089.0,inactive,0,0
 62829.0,inactive,0,0
 213016.0,active agonist,3.88952,23.2562
-60196415.0,inconclusive agonist (fluorescent),48.9662,53.4413
 30692.0,active antagonist,52.8725,-20.5775
 8607.0,inactive,0,0
 50367.0,inactive,0,0
@@ -1109,7 +1119,6 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 3003141.0,inactive,0,0
 5280443.0,inactive,0,0
 5280531.0,inactive,0,0
-5280567.0,inactive,0,0
 5280795.0,inactive,0,0
 5280934.0,inactive,0,0
 5280961.0,inactive,0,0
@@ -1787,7 +1796,6 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 5536.0,inactive,0,0
 5541.0,inactive,0,0
 5543.0,inactive,0,0
-5546.0,inconclusive agonist (fluorescent),23.0141,24.5461
 5558.0,inactive,0,0
 5560.0,inactive,0,0
 5561.0,inactive,0,0
@@ -2171,7 +2179,6 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 7046.0,inactive,0,0
 7047.0,inactive,0,0
 7048.0,inactive,0,0
-7050.0,inconclusive agonist (fluorescent),32.3677,103.845
 7054.0,inactive,0,0
 7055.0,inactive,0,0
 7056.0,inactive,0,0
@@ -3285,7 +3292,6 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 11914.0,inactive,0,0
 11921.0,inactive,0,0
 11927.0,inactive,0,0
-11937.0,inconclusive agonist (fluorescent),2.91249,28.4233
 11945.0,inactive,0,0
 11955.0,inactive,0,0
 11957.0,inactive,0,0
@@ -5952,7 +5958,6 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 1550874.0,inactive,0,0
 1551245.0,inactive,0,0
 1796220.0,inactive,0,0
-2723598.0,inconclusive agonist (fluorescent),7.56242,74.5738
 2723617.0,inactive,0,0
 2723622.0,inactive,0,0
 2723630.0,inactive,0,0
@@ -7162,7 +7167,6 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 3681.0,active agonist,0.848517,101.783
 4496.0,active agonist,0.441903,99.6168
 4963.0,active agonist,23.3627,30.5761
-5546.0,inconclusive agonist (fluorescent),23.0141,24.5461
 5743.0,active agonist,0.00378085,100.614
 5754.0,active agonist,0.0393239,93.6175
 5755.0,active agonist,0.0236202,103.44
@@ -7174,17 +7178,12 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 6216.0,active agonist,0.182807,100.958
 6436.0,active agonist,0.00186744,104.059
 6741.0,active agonist,0.0210489,101.273
-6867.0,active agonist,45.3485,178.534
-7050.0,active agonist,21.8751,215.04
 9153.0,active agonist,21.3809,46.5614
-9158.0,inconclusive agonist (fluorescent),2.07557,204.099
 9642.0,active agonist,0.00695572,95.2991
 9782.0,active agonist,0.0054941,108.281
 9878.0,active agonist,0.00291709,95.3754
 10788.0,active agonist,1.72825,22.1201
-11937.0,inconclusive agonist (fluorescent),2.91249,28.4233
 14219.0,active agonist,2.03708,97.0009
-14586.0,active agonist,10.1349,243.359
 15209.0,active agonist,0.00308994,106.153
 15432.0,active agonist,4.83068,55.0888
 16158.0,active agonist,0.00337801,117.382
@@ -7200,8 +7199,6 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 31307.0,active agonist,0.0321043,88.0725
 31378.0,active agonist,0.0425266,102.063
 32798.0,active agonist,0.000648625,102.413
-33786.0,inconclusive agonist (fluorescent),27.9216,75.121
-38072.0,inconclusive agonist (fluorescent),20.0381,92.7901
 40000.0,active agonist,0.000691751,98.3824
 44368.0,active agonist,1.25893,52.4539
 47320.0,active agonist,1.0609,108.259
@@ -7217,7 +7214,6 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 71386.0,active agonist,0.00399812,121.039
 71414.0,active agonist,0.00756242,96.8874
 71470.0,active agonist,0.00169301,100.455
-71833.0,active agonist,45.6372,52.634
 82153.0,active agonist,0.00909931,103.506
 91670.0,active agonist,0.00495824,122.774
 95717.0,active agonist,19.7421,52.7981
@@ -7240,10 +7236,7 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 636374.0,active agonist,0.0228564,103.549
 636398.0,active agonist,0.28973,89.0539
 656804.0,active agonist,0.556323,102.533
-2723598.0,active agonist,4.06662,483.714
-2725002.0,active agonist,17.5925,223.76
 3034658.0,active agonist,0.119856,96.1616
-5281417.0,inconclusive agonist (fluorescent),10.2096,82.5133
 5282493.0,active agonist,0.0104357,102.542
 5282494.0,active agonist,0.0224831,96.76
 5284623.0,active agonist,3.18904,31.8326
@@ -7255,7 +7248,6 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 6714002.0,active agonist,0.0256454,85.8551
 6918155.0,active agonist,0.0126432,93.842
 6918178.0,active agonist,0.00065081,83.5811
-9849425.0,active agonist,3.57817,291.418
 9909677.0,active agonist,12.2998,48.3085
 10476437.0,active agonist,0.0393847,89.9449
 11296583.0,active agonist,3.12844,251.895
@@ -7272,13 +7264,10 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 60196346.0,active agonist,0.0182807,108.38
 4474.0,active antagonist,0,-15.057
 4507.0,active antagonist,13.4481,-115.587
-5546.0,inconclusive agonist (fluorescent),23.0141,24.5461
 5757.0,active antagonist,0,-17.2029
 5991.0,active antagonist,1.08858,-114.449
 6620.0,active antagonist,0,-17.0737
-7050.0,inconclusive agonist (fluorescent),26.5023,75.1584
 8691.0,active antagonist,0,-15.7252
-11937.0,inconclusive agonist (fluorescent),2.91249,28.4233
 50491.0,active antagonist,0.0952052,-28.2521
 53232.0,active antagonist,0,-15.1921
 65894.0,active antagonist,3.8476,-23.1145
@@ -7291,7 +7280,6 @@ PUBCHEM_CID,Activity Summary,Ratio Potency (uM),Ratio Efficacy (%)
 454937.0,active antagonist,0,-19.6466
 610479.0,active antagonist,11.9856,-24.1043
 657220.0,active antagonist,0,-16.8804
-2723598.0,inconclusive agonist (fluorescent),7.09415,76.3907
 5284483.0,active antagonist,12.6958,-98.439
 23663400.0,active antagonist,0.0337801,-26.3444
 23714647.0,active antagonist,0.0916208,-146.272
