@@ -1,0 +1,329 @@
+Activity Summary,PUBCHEM_CID,Ratio Efficacy (%),Ratio Potency (uM)
+inactive,6140,0,0
+inactive,7321,0,0
+inactive,7389,0,0
+inactive,8030,0,0
+active antagonist,8247,45.2209,3.5481
+active antagonist,13636,53.7165,44.6684
+inactive,17083,0,0
+inactive,17142,0,0
+inactive,17318,0,0
+inactive,21531,0,0
+inactive,21805,0,0
+inactive,28594,0,0
+inactive,40087,0,0
+inactive,75780,0,0
+inactive,75819,0,0
+inactive,81811,0,0
+inactive,91656,0,0
+inactive,91745,0,0
+inactive,114924,0,0
+active antagonist,442530,98.2894,0.8913
+inactive,641240,0,0
+active antagonist,3392731,118.406,19.9526
+active antagonist,5040063,142.842,28.1838
+active antagonist,5288209,16.8121,0.7943
+inactive,5354896,0,0
+inactive,5889665,0,0
+inactive,6440940,0,0
+active agonist,9828359,55.1357,15.8489
+active antagonist,9934458,50.4127,50.1187
+inactive,15390532,0,0
+inactive,16760156,0,0
+active antagonist,54680085,97.2209,44.6684
+active antagonist,5035,101.942,39.8107
+inactive,4139,0,0
+active antagonist,6518171,109.56,39.8107
+active antagonist,67361,160.107,22.3872
+inactive,123627,0,0
+active antagonist,457193,117.511,0.1122
+inactive,403,0,0
+inactive,1744,0,0
+inactive,2126,0,0
+inactive,3224,0,0
+inactive,7308,0,0
+inactive,7372,0,0
+inactive,7607,0,0
+inactive,8268,0,0
+inactive,8373,0,0
+inactive,8398,0,0
+inactive,8814,0,0
+inactive,9275,0,0
+inactive,13101,0,0
+inactive,15096,0,0
+inactive,15659,0,0
+inactive,16918,0,0
+inactive,17520,0,0
+inactive,17721,0,0
+inactive,18386,0,0
+inactive,21013,0,0
+inactive,22772,0,0
+inactive,24365,0,0
+inactive,73864,0,0
+inactive,80296,0,0
+inactive,86412,0,0
+inactive,86443,0,0
+inactive,93379,0,0
+inactive,115003,0,0
+inactive,115157,0,0
+inactive,171660,0,0
+inactive,229852,0,0
+inactive,446849,0,0
+inactive,447466,0,0
+inactive,449459,0,0
+inactive,637796,0,0
+inactive,1550884,0,0
+inactive,3032732,0,0
+inactive,5273467,0,0
+inactive,5281303,0,0
+inactive,5284381,0,0
+inactive,5284643,0,0
+inactive,6422843,0,0
+inactive,6436079,0,0
+inactive,6537491,0,0
+inactive,6537501,0,0
+inactive,9936739,0,0
+inactive,11488729,0,0
+inactive,11664966,0,0
+inactive,12873567,0,0
+inactive,13022500,0,0
+inactive,16682740,0,0
+inactive,16682746,0,0
+inactive,16760154,0,0
+inactive,44134378,0,0
+inactive,135398738,0,0
+inactive,135491728,0,0
+inactive,2335,0,0
+inactive,2683,0,0
+inactive,10739,0,0
+inactive,3198,0,0
+inactive,4761,0,0
+inactive,184900,0,0
+inactive,3037,0,0
+inactive,8425,0,0
+inactive,12309465,0,0
+inactive,177,0,0
+inactive,942,0,0
+inactive,1188,0,0
+inactive,1309,0,0
+inactive,1730,0,0
+inactive,2087,0,0
+inactive,2154,0,0
+inactive,2513,0,0
+inactive,2681,0,0
+inactive,3036,0,0
+inactive,3048,0,0
+inactive,4618,0,0
+inactive,6397,0,0
+inactive,6557,0,0
+inactive,6627,0,0
+inactive,6979,0,0
+inactive,6988,0,0
+inactive,7311,0,0
+inactive,7483,0,0
+inactive,7492,0,0
+inactive,7628,0,0
+inactive,7684,0,0
+inactive,8480,0,0
+inactive,8492,0,0
+inactive,8530,0,0
+inactive,8686,0,0
+inactive,8754,0,0
+inactive,8773,0,0
+inactive,9006,0,0
+inactive,9453,0,0
+inactive,9477,0,0
+inactive,10913,0,0
+inactive,10914,0,0
+inactive,11080,0,0
+inactive,11742,0,0
+inactive,11769,0,0
+inactive,11844,0,0
+inactive,12955,0,0
+inactive,13089,0,0
+inactive,13521,0,0
+inactive,13522,0,0
+inactive,13526,0,0
+inactive,13543,0,0
+inactive,13763,0,0
+inactive,13838,0,0
+inactive,14025,0,0
+inactive,14126,0,0
+inactive,14236,0,0
+inactive,14749,0,0
+inactive,14770,0,0
+inactive,14782,0,0
+inactive,14906,0,0
+inactive,15098,0,0
+inactive,15793,0,0
+inactive,16217,0,0
+inactive,16248,0,0
+inactive,16264,0,0
+inactive,16362,0,0
+inactive,16774,0,0
+inactive,17047,0,0
+inactive,17169,0,0
+inactive,17190,0,0
+inactive,17235,0,0
+inactive,17242,0,0
+inactive,17317,0,0
+inactive,17811,0,0
+inactive,18137,0,0
+inactive,18529,0,0
+inactive,19119,0,0
+inactive,19284,0,0
+inactive,21354,0,0
+inactive,23518,0,0
+inactive,24705,0,0
+inactive,24726,0,0
+inactive,24764,0,0
+inactive,27975,0,0
+inactive,28503,0,0
+inactive,31238,0,0
+inactive,31292,0,0
+inactive,34706,0,0
+inactive,35823,0,0
+inactive,36027,0,0
+inactive,36028,0,0
+inactive,40159,0,0
+inactive,41909,0,0
+inactive,61221,0,0
+inactive,65114,0,0
+inactive,66094,0,0
+inactive,66347,0,0
+inactive,69661,0,0
+inactive,69785,0,0
+inactive,70400,0,0
+inactive,73671,0,0
+inactive,73675,0,0
+inactive,76262,0,0
+inactive,78276,0,0
+inactive,82145,0,0
+inactive,86138,0,0
+inactive,91497,0,0
+inactive,91699,0,0
+inactive,91751,0,0
+inactive,91752,0,0
+inactive,91756,0,0
+inactive,91763,0,0
+inactive,91768,0,0
+inactive,91779,0,0
+inactive,92434,0,0
+inactive,93419,0,0
+inactive,93539,0,0
+inactive,101525,0,0
+inactive,101940,0,0
+inactive,107199,0,0
+inactive,122087,0,0
+inactive,155906,0,0
+inactive,155907,0,0
+inactive,155909,0,0
+inactive,156429,0,0
+inactive,157882,0,0
+inactive,181987,0,0
+inactive,184964,0,0
+inactive,185588,0,0
+inactive,197956,0,0
+inactive,210326,0,0
+inactive,213012,0,0
+inactive,246983,0,0
+inactive,441074,0,0
+inactive,441477,0,0
+inactive,444795,0,0
+inactive,452977,0,0
+inactive,581984,0,0
+inactive,638011,0,0
+inactive,642197,0,0
+inactive,759280,0,0
+inactive,853433,0,0
+inactive,1549040,0,0
+inactive,3672772,0,0
+inactive,5281249,0,0
+inactive,5284459,0,0
+inactive,5324275,0,0
+inactive,5324278,0,0
+inactive,5324707,0,0
+inactive,5353758,0,0
+inactive,5361202,0,0
+inactive,5364360,0,0
+inactive,5364545,0,0
+inactive,5365075,0,0
+inactive,5365543,0,0
+inactive,5377791,0,0
+inactive,5462814,0,0
+inactive,5485188,0,0
+inactive,5869600,0,0
+inactive,6399255,0,0
+inactive,6436604,0,0
+inactive,6440728,0,0
+inactive,6453365,0,0
+inactive,6537490,0,0
+inactive,6537492,0,0
+inactive,6537497,0,0
+inactive,6537500,0,0
+inactive,6537961,0,0
+inactive,6604200,0,0
+inactive,9552079,0,0
+inactive,9570071,0,0
+inactive,9595287,0,0
+inactive,9600409,0,0
+inactive,9834513,0,0
+inactive,9908833,0,0
+inactive,10937610,0,0
+inactive,11150163,0,0
+inactive,11348842,0,0
+inactive,11409499,0,0
+inactive,11419598,0,0
+inactive,11437688,0,0
+inactive,12881581,0,0
+inactive,13084212,0,0
+inactive,13633097,0,0
+inactive,14626249,0,0
+inactive,14671598,0,0
+inactive,15786053,0,0
+inactive,16684880,0,0
+inactive,16760138,0,0
+inactive,16760143,0,0
+inactive,16760145,0,0
+inactive,16760146,0,0
+inactive,16760147,0,0
+inactive,16760149,0,0
+inactive,16760158,0,0
+inactive,24860540,0,0
+inactive,135491830,0,0
+inactive,135492483,0,0
+inactive,135665275,0,0
+active antagonist,6,80.0204,31.6228
+active antagonist,299,90.4643,39.8107
+active antagonist,3598,42.0112,7.0795
+active agonist,4135,52.5603,15.8489
+active antagonist,5993,56.414,44.6684
+active antagonist,7589,109.827,35.4813
+active antagonist,8342,137.476,39.8107
+active agonist,8455,37.9394,15.8489
+active antagonist,11169,58.2976,28.1838
+active antagonist,12688,145.821,15.8489
+active antagonist,14957,93.6752,22.3872
+active agonist,15433,41.4075,28.1838
+active antagonist,17701,52.8776,44.6684
+active antagonist,19042,140.755,19.9526
+active antagonist,27423,127.382,44.6684
+active antagonist,28936,45.9072,39.8107
+active antagonist,29393,51.4581,44.6684
+active antagonist,34469,47.9424,44.6684
+active antagonist,53665,161.107,25.1189
+active antagonist,76716,122.69,44.6684
+active antagonist,86398,48.0166,39.8107
+active antagonist,93315,57.8202,11.2202
+active agonist,198155,39,7.9433
+active antagonist,409301,132.559,11.2202
+active antagonist,447912,89.342,39.8107
+active antagonist,1549133,35.6078,17.7828
+active antagonist,5282379,36.0791,1.9953
+active antagonist,5284626,104.645,7.0795
+active antagonist,5289501,100.722,39.8107
+active agonist,6537496,45.9831,39.8107
+active antagonist,7048670,87.8085,15.8489
+active antagonist,16682730,105.593,0.1413
+active antagonist,16684310,151.808,15.8489
+active antagonist,44134380,62.9613,50.1187
