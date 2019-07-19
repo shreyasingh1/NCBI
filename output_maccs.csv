@@ -1,0 +1,23 @@
+infile1 =  /panfs/pan1.be-md.ncbi.nlm.nih.gov/pubchem_rnd/users/singhs29/input/input_train_maccs.csv
+infile2 =  /panfs/pan1.be-md.ncbi.nlm.nih.gov/pubchem_rnd/users/singhs29/input/input_test_maccs.csv
+infile3 =  /panfs/pan1.be-md.ncbi.nlm.nih.gov/pubchem_rnd/users/singhs29/input/input_ncgc_maccs.csv
+infile4 =  /panfs/pan1.be-md.ncbi.nlm.nih.gov/pubchem_rnd/users/singhs29/input/input_chembl_maccs.csv
+outfile =  out_nb/output_maccs.csv
+n_jobs  =  1
+n_cv    =  0
+refit   =  roc_auc
+prob    =  0.99
+#-- num_cids_train :  709
+#-- num_cids_test  :  709
+#-- num_cids_train :  328
+#-- num_cids_test  :  328
+#-- num_cids_test  :  656
+
+================================
+
+#-- num_features (before feature selection) =  166
+#-- Performing feature selection with PROB =  0.99
+#-- num_features (after feature selection) =  146
+
+================================
+
